@@ -1,0 +1,5 @@
+PS P:\1 A\A-GPG\1 A codes et intérêts> Get-FileHash .\EspaceTemps_2025_08_13.zip -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          36EA2FBEEBCC43E2A76AAB2C94B0F827936AC24B31FD77596CB6888D84F4FA1F       P:\1 A\A-GPG\1 A codes et int...
